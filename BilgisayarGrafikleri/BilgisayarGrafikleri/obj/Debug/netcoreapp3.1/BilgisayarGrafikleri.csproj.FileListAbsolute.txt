@@ -1,0 +1,16 @@
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\netcoreapp3.1\BilgisayarGrafikleri.exe
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\netcoreapp3.1\BilgisayarGrafikleri.deps.json
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\netcoreapp3.1\BilgisayarGrafikleri.runtimeconfig.json
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\netcoreapp3.1\BilgisayarGrafikleri.runtimeconfig.dev.json
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\netcoreapp3.1\BilgisayarGrafikleri.dll
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\bin\Debug\netcoreapp3.1\BilgisayarGrafikleri.pdb
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.csproj.AssemblyReference.cache
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.csproj.GenerateResource.cache
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.AssemblyInfoInputs.cache
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.AssemblyInfo.cs
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.dll
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.pdb
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.genruntimeconfig.cache
+C:\Users\kaan_\source\repos\BilgisayarGrafikleri\BilgisayarGrafikleri\obj\Debug\netcoreapp3.1\BilgisayarGrafikleri.frmAnasayfa.resources
