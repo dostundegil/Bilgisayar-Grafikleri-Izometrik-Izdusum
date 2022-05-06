@@ -1,0 +1,1 @@
+# Bilgisayar-Grafikleri-Izometrik-Izdusum
